@@ -40,7 +40,7 @@ export default function StoreHero() {
       <Img width="30vw" src={storeImage} />
       <InfoContainer>
         <Title>Cristals</Title>
-        <SubTitle>Verified artist</SubTitle>
+        <SubTitle>Verified Artist</SubTitle>
       </InfoContainer>
       <ButtonContainer>
         <Button>Follow</Button>
