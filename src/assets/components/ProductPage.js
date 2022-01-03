@@ -59,7 +59,7 @@ export default function ProductPage() {
         <AiOutlineShoppingCart />
         <HoldBidText>Confirm 4.0 eth bid</HoldBidText>
         <Button bgColor={Colors.CardBackground} color={Colors.Primary}>
-          Hold to bid
+          Hold to Bid
         </Button>
       </HoldBid>
     </PageContainer>

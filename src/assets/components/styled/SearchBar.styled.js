@@ -29,7 +29,7 @@ const Input = styled.input`
 export default function SearchBar() {
   return (
     <SearchBarEl>
-      <Input placeholder="Search on Poly" />
+      <Input placeholder="Search on Polygon" />
       <RiSearchLine />
     </SearchBarEl>
   );
